@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brief memorial of the losse of the late incomparable and excellent Andrew Lord Rutherford Earle of Teveot, &amp;c. Killed by an ambuscadoe of Moores, May the 3d. 1664.</title>
+            <author>Rich, Jeremiah, fl. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06877</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[132]</idno>
+            <idno type="EEBO-CITATION">99885220</idno>
+            <idno type="PROQUEST">ocm99885220</idno>
+            <idno type="VID">182616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182616)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[132])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brief memorial of the losse of the late incomparable and excellent Andrew Lord Rutherford Earle of Teveot, &amp;c. Killed by an ambuscadoe of Moores, May the 3d. 1664.</title>
+                  <author>Rich, Jeremiah, fl. 1664.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (metalcut).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Marsh at the Princes Armes in Chancery-Lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Jeremiah Rich.</note>
+                  <note>With a description of ambush followed by an elegy.</note>
+                  <note>Imperfect: stained, affecting ill. and title.</note>
+                  <note>Cf. Wing R1340 which has title "Death's envious triumph, in a memorial of ...".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Teviot, Andrew Rutherford, --  Earl of, d. 1664 --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182616:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>BRIEF MEMORIAL OF THE Loſſe of the Late Incomparable and Excellent Andrew Lord Rutherford <hi>EARLE of TEVEOT,</hi> &amp;c. Killed by an Ambuſcadoe of MOORES, <hi>May</hi> the 3d, 1664.</head>
+            <figure/>
+            <p>
+               <seg rend="decorInit">W</seg>E preſent the World with a draught of the fatall Field wherein to the grief and unſpeakable ſorrow of all Men lyeth Carnaged the Body of that Illuſtrious and moſt Heroical Perſon <hi>Andrew</hi> Lord <hi>Rutherford</hi> Earl of <hi>Teveot,</hi> together with the Card of the Town of <hi>Tangier</hi> according to the exacteſt Delineation; wherein he had the honour to command ſo ſucceſsfully for his Majeſty. The view will contribute a great advantage to the piety of thoſe Perſons who would offer their Teares at his Tombe, and the more unaffected be ſatisfied with the ſtory by theſe Particulars, which to a great expence we have cauſed to be Engraven.</p>
+            <p>As to the Relation of this ſad ſtory, the proceeding of it was thus. Upon <hi>May</hi> the 3d. 1664. the Noble Governour calling to mind a bruſh he received from <hi>Gayland</hi> that Day Twelve Moneth, and expecting an onſet from him upon account of that ſucceſſe, ordered the Doubling of the Guards of the Town, and a Company of Foot to reinforce the Fort, having alſo received private Information from a Jew of a part of the <hi>Moores</hi> in ſuch a place, whither he would conduct him; whereupon having left ſtrict Orders concerning the Garriſon, he ad<g ref="char:EOLhyphen"/>vanced with Five Hundred Men to the <hi>Jewes</hi> River, (which you ſee in the Map) having the Jew with him, and paſſing the ſaid River, ſent a Forlorne of Horſe to ſecure the Adjacent Fields, who ſeeing no Enemy alighted and fed the Horſes, which the <hi>Moores</hi> ſuffered from their Ambuſcadoes, as ſure of the whole Party; for upon return of this Forlorne, with their Newes of no Enemy, my Lord marched forward, and commanded his Party to fell down thoſe Adjacent Woods where the Enemy had lurked ſo often, and done ſo much miſchief; but upon their approach the Enemy iſſued our, and with great Numbers encompaſſed this ſmall Party, and finally butcher'd them all, very few eſcaping with the Newes: <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> And thus fell the Moſt Excellent <hi>Rutherford</hi> by the Treachery of a damned Jew, whom the Power and Force of no Enemy could Vanquiſh. Indeed no Fate could better ſuite his, nor was any Place but the Field worthy of great Actions.</p>
+            <div type="elegy">
+               <head>An ELEGY on His DEATH and Surpriſal.</head>
+               <l>WE are not Conquer'd yet, the Sooty MOORE</l>
+               <l>Ere long will Vaile, and give his Triumps o're;</l>
+               <l>Yet we ſhall make this bold USURPER bow,</l>
+               <l>And fetch the Honour from his black ey'd brow,</l>
+               <l>The LAWREL Crown for Warlike <hi>TEVEOT</hi> made</l>
+               <l>Snatcht off by <hi>GAYLAND,</hi> withers in a ſhade:</l>
+               <l>Thy Valour is Eclips'd thou Son of Night,</l>
+               <l>Vertue from thy black Soul is darkned quite.</l>
+               <l>What Champion fought with greater bravery</l>
+               <l>Then fiery <hi>TEVEOT,</hi> which his Foes ſlavery</l>
+               <l>Could often manifeſt, each dreadful blow</l>
+               <l>Foretold the Enemy of his Overthrow,</l>
+               <l>In every Battle he would firſt engage,</l>
+               <l>The <hi>LIZBIAN</hi> Lion in his Rampant rage</l>
+               <l>Was his true <hi>EMBLEM,</hi> for his Enemies falls</l>
+               <l>His Warlike Drums beat doleful Funerals.</l>
+               <l>While thundring ſhot did fly back with the breath</l>
+               <l>Of fury, each Granado whiſpering death.</l>
+               <l>There in the clouds of Smoke with winged ſpeed</l>
+               <l>DEATH gallop'd through the Army with a Reed,</l>
+               <l>To meaſure out the Graves, of them which he</l>
+               <l>Had ſent to wander to Eternity.</l>
+               <l>But now the matchleſs <hi>TEVEOT</hi> is fal'n down</l>
+               <l>Unto a Moore, for a more glorious Crown</l>
+               <l>Then that of <hi>LAWREL,</hi> not by VALOUR KILL'D</l>
+               <l>But treacherous AMBUSCADOES Hedges fill'd:</l>
+               <l>To Rifle this rich Cabinet of a Prize</l>
+               <l>More Good, more Glorious, then in <hi>India</hi> lies,</l>
+               <l>Then boaſt not Death, being ſlain by treachery</l>
+               <l>In this laſt Combat, he has conquer'd thee.</l>
+            </div>
+            <closer>
+               <signed>Jeremiah Rich.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Marſh</hi> at the Princes Armes in Chancery-Lane, 1664.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
